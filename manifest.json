@@ -1,6 +1,10 @@
 {
-    "files": {
-        "index.js": "1d5008073ffad6b86a60f8c53b201f21a4bbe9fab48329a910bcaa67979555fd",
-        "xigncode-bypass.dll": "f5d8b296e7892537dbc7b36dddf715e8738e41e4e151d4c51872137f9854e1fe"
-    }
+	"files": {
+		"README.md": "2160b045a9a9af9f7bb2e9ba09be65410a51dbefdd786679647ed6897f5a3395",
+		"index.js": "1d5008073ffad6b86a60f8c53b201f21a4bbe9fab48329a910bcaa67979555fd",
+		"module.json": "102e241cf24a075eedd46f98980fc3ed721a66f302898acc46d2d258dd3af433",
+		"re/x3.xem": "1ea2eaf64e85314e0b2eb43fed18b172c601fec991eb452b4d591d279a997339",
+		"re/xcorona.xem": "54d716949719db6e30f798ba80ef8be19f1bd0a37ce109c0bea981fc62062097",
+		"xigncode-bypass.dll": "f5d8b296e7892537dbc7b36dddf715e8738e41e4e151d4c51872137f9854e1fe"
+	}
 }
