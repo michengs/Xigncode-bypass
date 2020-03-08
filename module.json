@@ -1,11 +1,11 @@
 {
-	"disableAutoUpdate": false,
-	"name": "xigncode-bypass",
-	"author": " (bypass by Caali)",
-	"description": "Prevents XIGNCODE3 from being started and installed on your system.",
-	"category": "client",
-	"options": {
-		"guiName": "XIGNCODE3 Bypass"
-	},
-	"servers": ["https://raw.githubusercontent.com/michengs/Xigncode-bypass/master/"]
+    "disableAutoUpdate": false,
+    "name": "xigncode-bypass",
+    "author": " (bypass by Caali)",
+    "description": "Prevents XIGNCODE3 from being started and installed on your system.",
+    "category": "client",
+    "options": {
+        "guiName": "XIGNCODE3 Bypass"
+    },
+    "servers": ["https://raw.githubusercontent.com/michengs/Xigncode-bypass/master/"]
 }
